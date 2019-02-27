@@ -6,6 +6,7 @@ image: assets/images/banner.jpg
 nav-menu: true
 ---
 
+## Quantas identidades cabem em mim?
 
 Essa é a provocação e o impulso inicial para a criação da performance multimídia Transcistada, que abarca a diversidade ao falar da intersecção entre diversas formas opressão, que incluem gênero, raça, forma e classe social. O coletivo une experiências individuais para levar para a cena discussões acerca dos corpos periféricos, corpos queers e aqueles que rompem as fronteiras de gênero e de padrões sociais, residentes geralmente em contextos de alto grau de violência e que trazem nas diferenças uma forma potente de (re)existência.
 
