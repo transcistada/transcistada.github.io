@@ -1,6 +1,6 @@
 ---
 title: Pesquisa de Maquiagens
-layout: projeto
+layout: maquiagem
 description: 'Talvez mais difícil seja aceitar a potência do medo, que ele pode ser produtivo e fértil. Que ficciona e que fricciona .'
 image: assets/images/foto17.jpg
 nav-menu: true
